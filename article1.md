@@ -26,3 +26,4 @@ Put that above code into .bashrc file and use ". .bashrc" to source the file. Th
 	$ lazygit "publish article2"
 
 That's all. The solution comes from stackoverflow, [see this link](https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one).
+
