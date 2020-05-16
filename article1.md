@@ -63,6 +63,6 @@ Collect and return support | 2020-04-12 | 2021-04-13
 Using a task list to show progres can be handy:
 
 - [x] Summit daily report on 20051 reporting
-- [] Update website
-- [] Complete cash report handlingin bochk_revised2
+- [ ] Update website
+- [ ] Complete cash report handlingin bochk_revised2
 
