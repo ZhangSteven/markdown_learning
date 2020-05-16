@@ -29,7 +29,11 @@ That's all. The solution comes from stackoverflow, [see this link](https://stack
 
 
 ## Program Code
-To put a block of program code is simple, just use tab in front of them. Just like above. To put inline program code, it's like this: `a, b = b, a+b` is allowed in Python.
+To put a block of program code is simple, just use tab in front of them. Just like above. Inline program code is like this: `a, b = b, a + b`.
+
+
+## Use an Image
+Let's put my image here. ![Image of Russia Mountain](images/beautiful-scenery-of-the-mountain-ingushetia-russia-2.jpg)
 
 
 
