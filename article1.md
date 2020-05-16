@@ -21,9 +21,15 @@ It's handy if we can do that in just one step, we can create a function in the b
 	    git push
 	}
 
-Put that above code into .bashrc file and use ". .bashrc" to source the file. Then do the below to publish change in one step
+Put that above code into .bashrc file and use ". .bashrc" to source the file. Then do the below to publish change in one step with your commit message:
 
 	$ lazygit "publish article2"
 
-That's all. The solution comes from stackoverflow, [see this link](https://stackoverflow.com/questions/19595067/git-add-commit-and-push-commands-in-one).
+That's all. The solution comes from stackoverflow, [see this link](https://stackoverflow.com/a/23328996).
+
+
+## Program Code
+To put a block of program code is simple, just use tab in front of them. Just like above. To put inline program code, it's like this: `a, b = b, a+b` is allowed in Python.
+
+
 
