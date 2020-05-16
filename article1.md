@@ -33,7 +33,14 @@ To put a block of program code is simple, just use tab in front of them. Just li
 
 
 ## Use an Image
-Let's put my image here. ![Image of Russia Mountain](images/beautiful-scenery-of-the-mountain-ingushetia-russia-2.jpg)
+Let's put my image here. Note that when the image cannot be loaded, the alternative text "Image of Russia Mountain" will display. ![Image of Russia Mountain](images/beautiful-scenery-of-the-mountain-ingushetia-russia-2.jpg)
 
+
+## Use a Block Quote
+Sometimes, we need to refer to a block of text quoted from some other sources, here is how:
+
+> I’ve spent my whole life not only eating food, but working with it as well - I’m passionate about helping people live fuller lives through the food they eat.
+
+> Today, approximately four billion people around the world are not getting the nutrition they need. Two billion of them are not living a full life because they simply don’t have access to food with critical micronutrients like vitamins or minerals.
 
 
