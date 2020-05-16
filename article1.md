@@ -47,14 +47,22 @@ Sometimes, we need to refer to a block of text quoted from some other sources, h
 
 
 ## GitHub Flavored Markdown
-Github offers some legacy markups, some of them are quite useful. Like below.
+Github offers some legacy markups, some of them are quite useful.
+
 
 ### Tables
-Here is a sample table.
+Here is a table about my Dell laptop warranty.
 
 Service | Start Date | Expiration Date
 --------|------------|-----------------
 Prosupport with next business day service | 2020-04-12 | 2021-04-13
 Collect and return support | 2020-04-12 | 2021-04-13
 
+
+### Task Lists
+Using a task list to show progres can be handy:
+
+- [x] Summit daily report on 20051 reporting
+- [] Update website
+- [] Complete cash report handlingin bochk_revised2
 
